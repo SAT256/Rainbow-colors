@@ -3,5 +3,6 @@ these are the colours in rainbow
 red
 orange
 yellow
+green
 pink
 purple
